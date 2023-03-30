@@ -6,30 +6,13 @@
         }
     },
     "images": {
-
-          "registry.hub.docker.com/calico/cni": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-cni",
-          "registry.hub.docker.com/calico/kube-controllers": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-controllers",
-          "registry.hub.docker.com/calico/typha": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-typha",
-          "registry.hub.docker.com/calico/pod2daemon-flexvol": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-pod2daemon-flexvol",
-          "registry.hub.docker.com/calico/node": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-node",
-                    
-          "registry.hub.docker.com/kubernetesui/dashboard": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/dashboard",
-          "registry.hub.docker.com/kubernetesui/metrics-scraper": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/metrics-scraper",
-
           "k8s.gcr.io/kube-apiserver": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/kube-apiserver",
           "k8s.gcr.io/kube-controller-manager": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/kube-controller-manager",
           "k8s.gcr.io/kube-scheduler": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/kube-scheduler",
           "k8s.gcr.io/kube-proxy": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/kube-proxy",
           "k8s.gcr.io/etcd": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/etcd",
           "k8s.gcr.io/coredns/coredns": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/coredns",
-          "k8s.gcr.io/pause": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/pause",
+          "k8s.gcr.io/pause": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/pause"
 
-          "k8s.gcr.io/metrics-server/metrics-server": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/metrics-server",
-          "k8s.gcr.io/kube-state-metrics/kube-state-metrics": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/kube-state-metrics",
-          "k8s.gcr.io/ingress-nginx/controller": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/ingress-nginx-controller",
-          "k8s.gcr.io/ingress-nginx/controller-chroot": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/ingress-nginx-controller-chroot",
-          "k8s.gcr.io/ingress-nginx/kube-webhook-certgen": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/ingress-nginx-kube-webhook-certgen",
-          "quay.io/brancz/kube-rbac-proxy": "registry.cn-hangzhou.aliyuncs.com/hcc-plug/kube-rbac-proxy"
- 
     }
 }
